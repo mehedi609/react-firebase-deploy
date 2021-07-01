@@ -3,7 +3,7 @@ import React from 'react';
 const Production = () => {
     return (
         <div>
-            <h1>Production</h1>
+            <h1>Updated workflow events</h1>
         </div>
     );
 };
