@@ -5,8 +5,6 @@ name: React app deploy to firebase production
 
 on:
   workflow_dispatch:
-    branches:
-      - master
 
 jobs:
   build:
